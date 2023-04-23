@@ -1,1 +1,1 @@
-# CharGPT
+# ChatGPT
