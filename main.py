@@ -4,11 +4,11 @@ from aiogram import Bot, Dispatcher, executor, types
 # import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 openai.Model.list()
 
 
-TOKEN = '6040057808:AAFpAXnGhGEbhKyNYnkucZfS7wDQOXIOnIc'
+TOKEN = ''
 
 HELP_COMMANDS = """
 /help - виклик споміжних команд.
